@@ -6,4 +6,7 @@ Scribe is a social networking service where people can socialize, edit, comment,
 
 Hosted Link: https://scribe-a3667.web.app/
 
+Home Page:
+![sample image 1](https://github.com/ajaykmr8684/SCRIBE/blob/master/Sample%20Images/Screenshot%20(26).png)
+
 
